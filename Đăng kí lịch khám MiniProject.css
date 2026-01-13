@@ -21,10 +21,10 @@ a {
     color: #134e4a;
     font-size: 19px;
     font-weight: bold;
-    background-color: #f8fafc;
 }
 body {
     text-align: center;
+    background-color: #f8fafc;
 }
 input[type="text"] {
     width: 220px;
@@ -83,4 +83,7 @@ select:focus {
 }
 input[type="submit"]:hover {
     background-color: #0f756d;
+}
+.khoangtrang {
+    background-color: white;
 }
