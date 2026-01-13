@@ -1,0 +1,56 @@
+h1 {
+    background-color: #ccfbf1;
+    color: #0e6e67;
+    text-align: center;
+}
+.taskbar {
+    font-weight: bold;
+    text-align: center;
+    background-color: #e0f2fe;
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+    color: #0369A1;
+}
+.link:hover {
+    background-color: #0284c7;
+    color: white;
+}
+img {
+    width: 800px;
+}
+.hinhanh {
+    text-align: center;
+}
+.gioithieu {
+    background-color: white;
+}
+.gioithieu p {
+    font-size: 18px;
+}
+.dichvu ul > li {
+    font-size: 18px;
+}
+.dichvu {
+    background-color: white;
+}
+h2 {
+    color: #155e75;
+}
+body {
+    background-color: #f0f9ff;
+}
+footer {
+    background-color: #0f766e;
+    color: white;
+    text-align: center;
+}
+.diachi {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+ul > li:hover {
+    background-color: #dbeafe;
+    color: #1e40af;
+}

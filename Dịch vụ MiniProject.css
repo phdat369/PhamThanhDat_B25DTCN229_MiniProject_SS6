@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+    background-color: #ccfbf1;
+    color: #0f766e;
+}
+.taskbar {
+    font-weight: bold;
+    text-align: center;
+    background-color: #e0f2fe;
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+    color: #0369A1;
+}
+.link:hover {
+    background-color: #0284c7;
+    color: white;
+}
+tr > th {
+    background-color: #bae6fd;
+    color: #075985;
+}
+tr {
+    font-size: 14px;
+}
+.diachi {
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+footer {
+    background-color: #0f766e;
+    color: white;
+    text-align: center;
+}
+.noidung:hover {
+    background-color: #dcedf9;
+}

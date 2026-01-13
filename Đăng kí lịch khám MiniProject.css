@@ -1,0 +1,86 @@
+h1 {
+    background-color: #ccfbf1;
+    color: #0f766e;
+    text-align: center;
+}
+.taskbar {
+    font-weight: bold;
+    text-align: center;
+    background-color: #e0f2fe;
+    font-size: 18px;
+}
+a {
+    text-decoration: none;
+    color: #0369A1;
+}
+.link:hover {
+    background-color: #0284c7;
+    color: white;
+}
+.tieude {
+    color: #134e4a;
+    font-size: 19px;
+    font-weight: bold;
+    background-color: #f8fafc;
+}
+body {
+    text-align: center;
+}
+input[type="text"] {
+    width: 220px;
+    height: 20px;
+    font-size: 18px;
+}
+input[type="email"] {
+    width: 220px;
+    height: 20px;
+    font-size: 18px;
+}
+input[type="number"] {
+    width: 220px;
+    height: 20px;
+    font-size: 18px;
+}
+select {
+    width: 190px;
+    height: 22px;
+    font-size: 18px;
+}
+input[type="date"] {
+    width: 155px;
+    height: 20px;
+    font-size: 18px;
+}
+textarea {
+    width: 220px;
+    height: 45px;
+    font-size: 18px;
+}
+input[type="submit"] {
+    font-weight: bold;
+    color: white;
+    background-color: #07a197;
+    width: 130px;
+    height: 30px;
+    font-size: 20px;
+}
+footer {
+    background-color: #0f766e;
+    color: white;
+    text-align: center;
+}
+.noidung:hover {
+    background-color: #dcedf9;
+}
+input:focus {
+    background-color: #ecfeff;
+}
+textarea:focus {
+    background-color: #ecfeff;
+}
+select:focus {
+    background-color: #ecfeff;
+}
+input[type="submit"]:hover {
+    background-color: #0f756d;
+}
